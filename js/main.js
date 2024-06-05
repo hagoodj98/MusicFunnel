@@ -49,6 +49,6 @@ document.querySelector('#open-popup').addEventListener('click',popup);
 
 function gotoLink(link){
     
-    location.href='landing';
+    location.href='https://landing.jaiquezmuzic.com/';
   }
   
